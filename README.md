@@ -15,7 +15,7 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 
 
 
-
+[Status Page](https://meta-achievements.onlineornot.com/)
 
 
 ## The Web App
