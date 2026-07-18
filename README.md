@@ -11,7 +11,7 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 | Android  | ✅     | [<img src="https://storage.googleapis.com/docs.itch.ovh/brand/rf/assets/badges/badge_bw.png" alt="Avaialable on Itch.io" height="80">][itchio-myapp] [<img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="80">][github-myapp]                                                                                                                                                                                                                                                                                                                                  |
 | iOS      | ❎     | [<img src="https://raw.githubusercontent.com/FriesI23/altstore-repo/refs/heads/master/assets/get-it-on-altstore-org.png" alt="Get it on AltStore" height="80">][altstore-source] [<img src="https://raw.githubusercontent.com/FriesI23/altstore-repo/refs/heads/master/assets/get-it-on-sidestore-org.png" alt="Get it on SideStore" height="80">][sidestore-source] [<img src="https://storage.googleapis.com/docs.itch.ovh/brand/rf/assets/badges/badge_bw.png" alt="Avaialable on Itch.io" height="80">][itchio-myapp] [<img src="https://raw.githubusercontent.com/Kunzisoft/Github-badge/main/get-it-on-github.png" alt="Get it on GitHub" height="80">][github-myapp] |
 | Web    | ✅     | [<img src="https://meta-achievements.notaglitch.net/web.png" alt="Get it on the Web" height="80">][website]
-| Quest  | ✅     | [<img src="https://img.itch.zone/aW1nLzI2NTU1MjEwLnBuZw==/original/W69aa5.png" alt="Get it on SideQuest" height="80">][sidequest-myapp] [<img src="https://storage.googleapis.com/docs.itch.ovh/brand/rf/assets/badges/badge_bw.png" alt="Avaialable on Itch.io" height="80">][itchio-myapp]
+| Quest  | ✅     | [<img src="https://img.itch.zone/aW1nLzI2NTU1MjEwLnBuZw==/original/W69aa5.png" alt="Get it on SideQuest" height="80">][sidequest-myapp] [<img src="https://storage.googleapis.com/docs.itch.ovh/brand/rf/assets/badges/badge_bw.png" alt="Avaialable on Itch.io" height="80">][itchio-myapp] [<img src=https://lookaside.fbsbx.com/elementpath/media/?media_id=597423292333741&version=1782938342>][meta-rc]
 
 
 
@@ -47,3 +47,4 @@ API and Original Website Development: [DenHBR](https://meta-achievements.onrende
 [altstore-source]: https://meta-achievements.notaglitch.net/altstore.html
 [website]: https://meta-achievements.notaglitch.net/
 [sidequest-myapp]: https://sidequestvr.com/app/55347/achievement-tracking-vr
+[meta-rc]: https://www.meta.com/s/6WxlX4jyX
