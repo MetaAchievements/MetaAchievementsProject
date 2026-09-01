@@ -51,7 +51,7 @@ Host Organization: [Not a Glitch Studios](https://www.notaglitch.net/)
 
 Lead Developer (GUI & App): [TheAndromedaCat](https://www.andromedacat.net/)
 
-API and Original Website Development: [DenHBR](https://meta-achievements.onrender.com/)
+API and Original Website Development: [DenHBR](https://go.meta-achievements.org/render)
 
 
 [itchio-myapp]: https://go.meta-achievements.org/itch
