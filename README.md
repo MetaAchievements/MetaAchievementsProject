@@ -54,10 +54,10 @@ Lead Developer (GUI & App): [TheAndromedaCat](https://www.andromedacat.net/)
 API and Original Website Development: [DenHBR](https://meta-achievements.onrender.com/)
 
 
-[itchio-myapp]: https://theandromedacat.itch.io/achievement-track
+[itchio-myapp]: https://go.meta-achievements.org/itch
 [sidestore-source]: https://meta-achievements.notaglitch.net/sidestore.html
 [github-myapp]: https://github.com/TheAndromedaCat/MetaAchievementsTracker/releases/latest
 [altstore-source]: https://meta-achievements.notaglitch.net/altstore.html
-[website]: https://meta-achievements.notaglitch.net/
-[sidequest-myapp]: https://sidequestvr.com/app/55347/achievement-tracking-vr
-[meta-rc]: https://www.meta.com/s/6WxlX4jyX
+[website]: https://go.meta-achievements.org/
+[sidequest-myapp]: https://go.meta-achievements.org/sidequest
+[meta-rc]: https://go.meta-achievements.org/meta
