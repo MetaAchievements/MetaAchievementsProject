@@ -53,7 +53,7 @@ Lead Developer (GUI & App): [TheAndromedaCat](https://www.andromedacat.net/)
 
 API and Original Website Development: [DenHBR](https://go.meta-achievements.org/render)
 
-Public DB Data API (Unauthenticated & CORS Allowed)
+## Public DB Data API (Unauthenticated & CORS Allowed)
 These endpoints allow third-party applications, developers, and browser users to query the local SQLite achievement database directly:
 
 GET /api/public/all-definitions (or /api/public/all-achievement-definitions):
