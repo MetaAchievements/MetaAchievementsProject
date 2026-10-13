@@ -24,6 +24,16 @@ These endpoints allow third-party applications, developers, and browser users to
   - **Purpose**: Returns full achievement definitions for a single `appId`, automatically resolving merged alias apps to their master app definitions and attaching platform tags.
   - **Format**: JSON array of achievement objects (`application/json`).
   - **CORS**: `Access-Control-Allow-Origin: *`
+ 
+-  **`GET /api/public/user-count`**:
+  - **Purpose**: Returns the total number of registered users currently indexed in the system cache, excluding internal error records.
+  - **Format**: JSON object (`application/json`) with `{ totalRegistered: number }`.
+  - **CORS**: `Access-Control-Allow-Origin: *`
+
+- **`GET /api/public/profiles`**:
+  - **Purpose**: Returns a list of all public profiles along with the total count, automatically excluding hidden/private profiles (`profileHidden: true`) and error records.
+  - **Format**: JSON object (`application/json`) with `{ total: number, profiles: [...] }`.
+  - **CORS**: `Access-Control-Allow-Origin: *`
 
 #### Username-to-ID Proxies
 - `GET /api/public-profile/:username/user-name` (Returns plain text)
