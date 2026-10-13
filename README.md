@@ -18,6 +18,9 @@ This repository is the central public hub of the **[Meta Achievements Organizati
 - 📱 **iOS App**: [MetaAchievementsTrackerIOS](https://github.com/MetaAchievements/MetaAchievementsTrackerIOS)
 - ⚙️ **Definitions Scraper**: [Achievement-Definitions-Grabber](https://github.com/MetaAchievements/Achievement-Definitions-Grabber)
 
+### Documentation
+-   **Public API**: [Here](https://github.com/MetaAchievements/MetaAchievementsProject/blob/main/PublicAPI.md)
+
 ---
 
 | platform | build | publish                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
