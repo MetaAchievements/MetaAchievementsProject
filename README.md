@@ -14,7 +14,7 @@ This repository is the central public hub of the **[Meta Achievements Organizati
 
 ### Private Repositories
 - 💻 **Web Portal & Server**: [MetaAchievementsHTML](https://github.com/MetaAchievements/MetaAchievementsHTML) ([meta-achievements.org](https://meta-achievements.org))
-- 📱 **Android App**: [MetaAchievementsTrackerAndroid](https://github.com/MetaAchievements/MetaAchievementsTrackerAndroid)
+- 📱 **Android Companion App**: [MetaAchievementsTrackerAndroid](https://github.com/MetaAchievements/MetaAchievementsTrackerAndroid)
 - 📱 **iOS App**: [MetaAchievementsTrackerIOS](https://github.com/MetaAchievements/MetaAchievementsTrackerIOS)
 - ⚙️ **Definitions Scraper**: [Achievement-Definitions-Grabber](https://github.com/MetaAchievements/Achievement-Definitions-Grabber)
 
