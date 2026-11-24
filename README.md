@@ -10,7 +10,7 @@ This repository is the central public hub of the **[Meta Achievements Organizati
 
 ### Public Repositories
 - 🌐 **Main Project Hub**: [MetaAchievementsTracker](https://github.com/MetaAchievements/MetaAchievementsTracker) *(This Repo)*
-- 📄 **XML Test Viewer**: [MetaAchievementsXMLTest](https://github.com/MetaAchievements/MetaAchievementsXMLTest) ([xml.meta-achievements.org](https://xml.meta-achievements.org))
+- 📄 **XML Profile Tester**: [MetaAchievementsTester](https://github.com/MetaAchievements/MetaAchievementsTester) ([xml.meta-achievements.org](https://xml.meta-achievements.org))
 
 ### Private Repositories
 - 💻 **Web Portal & Server**: [MetaAchievementsHTML](https://github.com/MetaAchievements/MetaAchievementsHTML) ([meta-achievements.org](https://meta-achievements.org))
